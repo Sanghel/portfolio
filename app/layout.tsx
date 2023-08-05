@@ -6,14 +6,8 @@ import ActiveSectionContextProvider from '@/context/activeSectionContext'
 import Header from '@/components/header'
 import Footer from '@/components/footer'
 import ThemeSwitch from '@/components/themeSwitch'
-import Head from 'next/head'
 
 const inter = Inter({ subsets: ['latin'] })
-
-// export const metadata = {
-//   title: 'Sanghel | Portfolio',
-//   description: 'Sanghel, Front-end developer with +1 years of experience.',
-// }
 
 export default function RootLayout({
   children,

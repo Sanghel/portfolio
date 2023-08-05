@@ -72,8 +72,8 @@ export const projectsData = [
   {
     title: "Wealth Accelerators Global",
     description:
-      "I worked as a front-end developer for 3 months on this project, informative landing page showing the different services offered by the company, routing from the front.",
-    tags: ["React JS", "JavaScript", "Next.js", "Tailwind CSS", "Framer Motion"],
+      "I worked as a front-end developer for 3 months on this project, informative landing page.",
+    tags: ["React JS", "JavaScript", "Tailwind CSS", "Framer Motion"],
     imageUrl: wag,
   },
   {
